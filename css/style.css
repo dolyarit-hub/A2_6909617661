@@ -1,0 +1,80 @@
+body 
+{
+    background-color: rgb(223, 243, 168);
+}
+body header
+{
+    background-color: rgb(159, 240, 186);
+}
+body h1 
+{
+    color: rgb(2, 99, 58);
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(57, 112, 4);
+}
+body header h1
+{
+    color: rgb(2, 70, 49);
+    text-align: center;
+    background-color: rgb(132, 146, 151);
+}
+section h2
+{
+    background-color: rgb(34, 34, 34);
+}
+section h2
+{
+    color: rgb(62, 199, 21);
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(15, 139, 42);
+}
+section.coloredbackground
+{
+    background-color: rgb(126, 129, 129);
+}
+p.rightalign
+{
+    text-align : center;
+    color: crimson;
+        line-height: 0px;
+        text-shadow: 2px 2px 5px rgb(253, 3, 3);
+}
+footer.fend
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer h2
+{
+    color: rgb(175, 14, 135);
+    text-align: left;
+}
+h2.text-shadow
+{
+    text-shadow: 2px 2px 5px rgb(54, 8, 129);
+}
+body{
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+}
+p.section1p
+{
+    height: 3px;
+}
+p.lowheight
+{
+    height: 15px;
+}
+image.positionvideo
+{
+    position: fixed;
+    left: 50px;
+    top: 50px;
+}
+article.coloredbackground
+{
+    background-color: rgb(248, 250, 250);
+}
